@@ -1,0 +1,16 @@
+{
+"companyName": "GLH",
+"productName": "Quédate  EnCasa",
+"productVersion": "1.0",
+"dataUrl": "QuédateEnCasaW.data.unityweb",
+"wasmCodeUrl": "QuédateEnCasaW.wasm.code.unityweb",
+"wasmFrameworkUrl": "QuédateEnCasaW.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.13f1"
+}
